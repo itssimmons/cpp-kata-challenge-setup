@@ -5,7 +5,7 @@ This is the alpha version of my setup to develop, test, and run katas in a few s
 
 Simple and easy... check... <br/>
 
-> I suppose you have already installed Bazel 🤔. If not, pls check the official docs: [https://bazel.build/install?hl=es-419](https://bazel.build/install?hl=es-419)
+> I suppose you have already installed Bazel 🤔. If not, pls check the official docs: [https://bazel.build/install](https://bazel.build/install)
 
 I'm gonna give you the *3 simple steps*:
 
@@ -39,3 +39,4 @@ bazel build //:kata-challenge ; bazel run //:kata-challenge
 Any kind of collaboration is very welcome! <br/>
 
 <sub>Happy Coding!</sub>
+
