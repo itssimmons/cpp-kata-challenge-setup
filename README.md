@@ -13,7 +13,7 @@ I'm gonna give you the *3 simple steps*:
 ```cpp
 #inlcude <iostream>
 
-auto main() -> int
+auto main(int argc, char const *argv[]) -> int
 {
   std::cout << "My Awesome Solution\n";
   return 0;
@@ -39,4 +39,5 @@ bazel build //:kata-challenge ; bazel run //:kata-challenge
 Any kind of collaboration is very welcome! <br/>
 
 <sub>Happy Coding!</sub>
+
 
